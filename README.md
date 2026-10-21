@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/microled-metasurface-collimator-explainer/
 
+Repository: https://github.com/mizcausevic-dev/microled-metasurface-collimator-explainer
+
 ## What this is
 
 An interactive anatomy plate for MicroLED Metasurface Collimator. Play, scrub, or jump the five stages. The same frame always draws the same picture.
